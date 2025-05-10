@@ -41,9 +41,4 @@ By answering these questions, businesses can improve marketing, inventory manage
 
 ---
 
-## ▶️ How to Run the Project
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/sales-data-analysis.git
-   cd sales-data-analysis
